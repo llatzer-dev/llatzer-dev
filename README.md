@@ -1,4 +1,7 @@
-### Hi, I'm Lázaro 👋
+<div align="center">
+  <h1>Hi, I'm Lázaro 👋</h1>
+</div>
+# Hi, I'm Lázaro 👋
 
 <p>Welcome to my page! </br> I'm Lazaro, Fullstack developer from <img src="" width="13"/> <b>Alicante, Spain</b>, currently living in <img src="" width="13"/> <b>Alicante, Spain</b>. </p>
 <h3>Things I code with</h3>
