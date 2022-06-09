@@ -52,4 +52,4 @@ const Lazaro000 = {
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
-[![Lazaro000's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lazaro000)](https://github.com/Lazaro000/github-readme-stats)
+[![Lazaro000's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lazaro000)](https://github.com/anuraghazra/github-readme-stats)
