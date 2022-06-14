@@ -2,7 +2,7 @@
   <h1>Hi, I'm Lázaro 👋</h1>
 </div>
 
-<p>Welcome to my page! </br> I'm Lazaro, Fullstack developer from <img src="" width="13"/> <b>Alicante, Spain</b>, currently living in <img src="" width="13"/> <b>Alicante, Spain</b>. </p>
+<p>Welcome to my page! </br> I'm Lazaro, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Alicante, Spain</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Alicante, Spain</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <!---
