@@ -7,6 +7,10 @@
 
 <p>Welcome to my page! </br> I'm Lazaro, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Alicante, Spain</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Alicante, Spain</b>. </p>
 
+<!--
+![](https://komarev.com/ghpvc/?username=Lazaro000&color=blueviolet)
+-->
+
 <br>
 
 ## 🛠️ My favorite tools
