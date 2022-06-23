@@ -71,11 +71,11 @@
 <br>
 
 ## 📊 Analytics [🔝]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro000&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro000&layout=compact&count_private=true)
 
-![Lazaro000's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lazaro000&v=2)
+![Lazaro000's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lazaro000&v=2&count_private=true)
 
-![Lazaro000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazaro000&show_icons=true&theme=radical)
+![Lazaro000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazaro000&show_icons=true&theme=radical&count_private=true)
 
 
 <!---
