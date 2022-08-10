@@ -82,13 +82,13 @@
 <br>
 
 ## 📊 Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro000&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro000&layout=compact&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Lazaro000's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lazaro000&v=2&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Lazaro000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazaro000&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lazaro000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazaro000&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
@@ -149,6 +149,14 @@ const Lazaro000 = {
 <img alt="Graph-Github-Activity" src="https://activity-graph.herokuapp.com/graph?username=Lazaro000&theme=minimal" />
 -->
 
-<img alt="Graph-Github-Activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lazaro000&theme=nord_dark" />
+<p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lazaro000&theme=tokyonight)
 
+<!---
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lazaro000&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lazaro000&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lazaro000&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lazaro000&theme=default&utcOffset=8)
+![](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Lazaro000&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+-->
