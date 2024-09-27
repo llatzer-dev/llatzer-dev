@@ -82,13 +82,13 @@
 <br>
 
 ## 📊 Analytics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazaro000&layout=compact&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llatzer-dev&layout=compact&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Lazaro000's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lazaro000&v=2&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![Lazaro000's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazaro000&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lazaro000's GitHub stats](https://github-readme-stats.vercel.app/api?username=llatzer-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
@@ -151,7 +151,7 @@ const Lazaro000 = {
 
 <p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lazaro000&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=llatzer-dev&theme=tokyonight)
 
 <!---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lazaro000&theme=default)
